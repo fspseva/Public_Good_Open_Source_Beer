@@ -20,3 +20,5 @@ Public Good IPA acts as a platform aimed at bringing web3 projects and protocols
 **Next Steps**
     
 The brand has ambitious plans that go beyond beer and explore other product categories with a more social character. The aim is to continue spreading the brand's message and the possibilities of the web3.
+
+Find out more at https://www.publicgood.wtf
