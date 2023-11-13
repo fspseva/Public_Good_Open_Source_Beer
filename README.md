@@ -1,4 +1,4 @@
-# Public Good Opensource Beer
+# Public Good Open Source Beer
 Public Good offers an opensource beer recipe so you can create your own beer.
 
 Public Good IPA is a unique beer born from the culture of NFT communities. Inspired by the open source movement, its recipe, brand and label are in the public domain.
